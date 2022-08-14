@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.louiscad.splitties:splitties-bundle-android:3.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/562bc9130e68d183e6b618121b6b7fa6/transformed/splitties-bundle-debug/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/562bc9130e68d183e6b618121b6b7fa6/transformed/splitties-bundle-debug/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/562bc9130e68d183e6b618121b6b7fa6/transformed/splitties-bundle-debug/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-bundle-android/3.0.0/7a03dddf8375c57896314ba8f9bed215e1f60683/splitties-bundle-android-3.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-bundle-android/3.0.0/ad4c812b031c9f62ef760099118adb681921a96c/splitties-bundle-android-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

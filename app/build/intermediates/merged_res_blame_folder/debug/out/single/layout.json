@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.firebasedemo.app-mergeDebugResources-36:/layout/activity_sign_in.xml",
+        "source": "com.example.firebasedemo.app-main-39:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.example.firebasedemo.app-mergeDebugResources-36:/layout/activity_sign_up.xml",
+        "source": "com.example.firebasedemo.app-main-39:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.firebasedemo.app-mergeDebugResources-36:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.firebasedemo.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.firebasedemo.app-mergeDebugResources-36:\\layout\\activity_sign_in.xml",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.firebasedemo.app-main-39:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.firebasedemo.app-mergeDebugResources-36:\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.firebasedemo.app-main-39:\\layout\\activity_sign_up.xml"
+    }
+]
